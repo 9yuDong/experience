@@ -1,6 +1,6 @@
 <h1 align="center">대학교 생활동안에 활동과 경험들</h1>
 
-<p align="center"><img src="https://www.pigno.se/static/assets/images/octocat.svg](https://svgsilh.com/svg_v2/1547551.svg)" width="240" /></p>
+<p align="center"><img src="images/school.png" width="240" /></p>
 
 <p align="center">Quick learn How to use the Git</p>
 
