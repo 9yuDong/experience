@@ -1,4 +1,4 @@
-<h1 align="center">대학교 생활동안에 활동과 경험들</h1>
+<h1 align="center">대학교 활동과 경험들</h1>
 
 <p align="center"><img src="images/school.png" width="240"  /></p>
 
