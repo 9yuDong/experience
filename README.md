@@ -10,9 +10,9 @@
 
 
 
-## :clap: 창업 동아리 활동
+## :clap: D.O 창업 동아리 활동/ 2021학년도 산업체 연계 캡스톤디자인  경진대회
 유모차 전방에 카메라를 달아 코너에서 갑작스럽게 튀어나올 수 있는 차량, 사람 등을 감지 모델로 구분하여 위급상황을 대처할 수 있는 스마트 유모차<br>
-
+<p align="left"><img src="images/KakaoTalk_20230105_052931530_01.png" width="240" height="350" /
 영수증 인식 AI를 이용한 세무사 애플리케이션 사업 아이템으로 사업계획서를 작성하여 KDB 스타트업 공모전에 출전하였다
 <p align="left"><img src="images/사업계획서.png" width="240" height="350" /><img src="images/사업계획서2.png" width="240"  height="350"/><img src="images/사업계획서3.png" width="240"  height="350"/></p>
 
