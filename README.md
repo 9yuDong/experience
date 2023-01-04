@@ -5,8 +5,8 @@
 ## :clap: KDB 스타트업 공모전
 인공지능 수업을 듣던중 관련 사업아이템이 떠올라 동기들과<br>
 영수증 인식 AI를 이용한 세무사 애플리케이션 사업 아이템으로 사업계획서를 작성하여 KDB 스타트업 공모전에 출전하였다
-<p align="center"><img src="images/school.png" width="240" /></p>
-<p align="center"><img src="images/school.png" width="240" /></p>
+<p align="left"><img src="images/사업계획서.png" width="240" /><img src="images/사업계획서2.png" width="240" /></p>
+
 
 
 
