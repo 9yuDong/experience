@@ -5,8 +5,7 @@
 ## :clap: KDB 스타트업 공모전
 인공지능 수업을 듣던중 관련 사업아이템이 떠올라 동기들과<br>
 영수증 인식 AI를 이용한 세무사 애플리케이션 사업 아이템으로 사업계획서를 작성하여 KDB 스타트업 공모전에 출전하였다
-<p align="left"><img src="images/사업계획서.png" width="240" height="350" /><img src="images/사업계획서2.png" width="240"  height="350"/><img src="images/사업계획서3.png" width="240"  height="350"/></p>
-
+<p align="left"><img src="images/사업계획서.png" width="240" height="350" /><img src="images/사업계획서2.png" width="240"  height="350"/><img src="images/사업계획서3.png" width="240"  height="350"/><img src="images/동아리유모차.jpg" width="240"  height="350"/></p>
 
 
 
@@ -15,8 +14,9 @@
 2021학년도 산업체 연계 캡스톤 디자인 경진대회에서 장려상과 교내 우수 창업동아리 선발 경진대회에서 대상을 수상했다
 <p align="left"><img src="images/스마트유모차.jpg" width="240" height="350" /><img src="images/유모차1.png" width="240" height="350" /></p>
 
+## :tada: 수상
 
-
+<p align="left"><img src="images/대상.jpg" width="240" height="350" /><img src="images/상장.png" width="240" height="350" /></p>
 ## :clap: 시작하며
 
 ### 깃을 왜 사용하죠?
@@ -137,7 +137,9 @@ $ git remote set-url origin git@github.com:KennethanCeyer/tutorial-git.git
 $ git remote show origin
 ```
 
-## :page_with_curl: 소스 기록
+## :page_with_curl:
+
+기록
 
 - 소스를 업로드 하기 위해서는 `git add` 명령어를 이용합니다.
 - 샘플을 참고하세요
@@ -187,7 +189,7 @@ $ git add *
 $ git commit -m "UI 레이아웃 이슈 수정 및 관리자 벨리데이션 추가." --amend
 ```
 
-## :tada: 소스 업데이트
+ 소스 업데이트
 
 - 상대방이 커밋한 파일은 명령어를 통해서 직접 업데이트를 하셔야 동기화가 됩니다.
 - 이때 사용하는 명령어는 `git pull`과 `git fetch`가 있습니다.
